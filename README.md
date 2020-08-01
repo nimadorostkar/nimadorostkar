@@ -1,5 +1,5 @@
 
-![AICoding](https://github.com/coding-ai/coding-ai/blob/master/IMG_4545.JPG)
+![example](https://github.com/nimadorostkar/nimadorostkar/blob/master/TKWT5613.JPEG)
 
 ### Hi everyone! 👋
 
