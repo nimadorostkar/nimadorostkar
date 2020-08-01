@@ -1,5 +1,5 @@
 
-![example](https://github.com/nimadorostkar/nimadorostkar/blob/master/TKWT5613.JPEG)
+![example](https://github.com/nimadorostkar/nimadorostkar/blob/master/nima.JPEG)
 
 ### Hi everyone! 👋
 
