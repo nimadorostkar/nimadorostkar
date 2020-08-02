@@ -32,7 +32,7 @@ In my spare time you will probably find me in gym or with my friends.
 <h3> Communication </h3>
 
 <p align="center">
-     <a href="https://www.linkedin.com/in/youcef-mouhamed-3b250919a/"><img alt="Linkedin profile"  title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="100" height="50" /></a>
+     <a href="https://www.linkedin.com/in/youcef-mouhamed-3b250919a/"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="100" height="50" /></a>
      <a href="mailto:y.goudjal.inf@lagh-univ.dz"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
      <a href="https://www.instagram.com/youcef_goudjal/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
      <a href="https://discord.com/users/youcef goudjal#3079"><img title="Discord" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"   width="100" height="50" /></a>
