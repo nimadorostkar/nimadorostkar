@@ -25,7 +25,7 @@ In my spare time you will probably find me in gym or with my friends.
   <img title="JS" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"   width="50" height="50" />
   <img title="opencv" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"   width="50" height="50" />
   <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"   width="100" height="50" />
-  <img title="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"   width="100" height="50" />
+  <img title="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"   width="100" height="50" />
  </p>
 
 
