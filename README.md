@@ -33,11 +33,11 @@ In my spare time you will probably find me in gym or with my friends.
 
 <p align="center">
      <a href="https://www.linkedin.com/in/youcef-mouhamed-3b250919a/"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="100" height="50" /></a>
-     <a href="mailto:y.goudjal.inf@lagh-univ.dz"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
-     <a href="https://www.instagram.com/youcef_goudjal/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
+     <a href="mailto:nimadorostkar97@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
+     <a href="https://www.instagram.com/nima.dorostkar"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
      <a href="https://discord.com/users/youcef goudjal#3079"><img title="Discord" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"   width="100" height="50" /></a>
-     <a href="https://twitter.com/YGoudjal"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
-     <a href="https://www.facebook.com/youcef.goudjal.90/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
+     <a href="https://twitter.com/dorostkar_nima"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
+     <a href="https://www.facebook.com/schmutz.schmutz.5"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
 </p>
 
 
