@@ -18,6 +18,7 @@ In my spare time you will probably find me in gym or with my friends.
   <img title="Postgresql" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"   width="50" height="50" />
   <img title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"   width="50" height="50" />
   <img title="TF" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
+  <img title="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"   width="100" height="50" />
   <img title="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"   width="50" height="50" />
   <img title="SQLlite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"   width="50" height="50" />
   <img title="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"   width="100" height="50" />
@@ -25,7 +26,6 @@ In my spare time you will probably find me in gym or with my friends.
   <img title="JS" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"   width="50" height="50" />
   <img title="opencv" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"   width="50" height="50" />
   <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"   width="100" height="50" />
-  <img title="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"   width="100" height="50" />
  </p>
 
 
