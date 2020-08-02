@@ -9,7 +9,8 @@ I am interested in Computer Vision and currently working as a developer. I am pa
 
 In my spare time you will probably find me in gym or with my friends.
 
-<br><hr>
+<br>
+
 <h3> Skills </h3>
 <p align="center">
   <img title="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50"/>
@@ -30,7 +31,7 @@ In my spare time you will probably find me in gym or with my friends.
 
 <h3> Communication </h3>
 
-<p float="center">
+<p align="center">
      <a href="https://www.linkedin.com/in/youcef-mouhamed-3b250919a/"><img alt="Linkedin profile"  title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="100" height="50" /></a>
      <a href="mailto:y.goudjal.inf@lagh-univ.dz"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
      <a href="https://www.instagram.com/youcef_goudjal/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
