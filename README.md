@@ -13,7 +13,7 @@ In my spare time you will probably find me in gym or with my friends.
 
 <h3> Skills </h3>
 <p align="center">
-  <img title="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50"/>
+  <img title="Django" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" width="50" height="50"/>
   <img title="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"   width="50" height="50" />
   <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"   width="50" height="50" />
   <img title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"   width="50" height="50" />
