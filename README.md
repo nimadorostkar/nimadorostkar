@@ -11,26 +11,6 @@ In my spare time you will probably find me in gym or with my friends.
 
 <br>
 
-<h3> Skills </h3>
-<p align="center">
-  <img title="Django" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="50" height="50"/>
-  <img title="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"   width="50" height="50" />
-  <img title="Postgresql" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"   width="50" height="50" />
-  <img title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"   width="50" height="50" />
-  <img title="TF" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
-  <img title="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"   width="100" height="50" />
-  <img title="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"   width="50" height="50" />
-  <img title="SQLlite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"   width="50" height="50" />
-  <img title="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"   width="100" height="50" />
-  <img title="PHP" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"   width="50" height="50" />
-  <img title="JS" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"   width="50" height="50" />
-  <img title="arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"   width="60" height="40" />
-  <img title="golang" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"   width="50" height="50" />
-  <img title="c++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"   width="50" height="50" />
-  <img title="opencv" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"   width="50" height="50" />
-  //<img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"   width="100" height="50" />
- //</p>
-
 
 <h3> Communication </h3>
 
