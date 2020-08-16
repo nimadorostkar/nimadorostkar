@@ -25,10 +25,11 @@ In my spare time you will probably find me in gym or with my friends.
   <img title="PHP" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"   width="50" height="50" />
   <img title="JS" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"   width="50" height="50" />
   <img title="arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"   width="60" height="40" />
+  <img title="golang" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"   width="50" height="50" />
+  <img title="c++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"   width="50" height="50" />
   <img title="opencv" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"   width="50" height="50" />
   <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"   width="100" height="50" />
  </p>
-
 
 
 <h3> Communication </h3>
