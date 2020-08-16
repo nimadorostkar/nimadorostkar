@@ -1,6 +1,4 @@
 
-![example](https://github.com/nimadorostkar/nimadorostkar/blob/master/nima.jpg)
-
 ### Hi everyone! 👋
 
 I’m Nima, and i'm part of the mechatronics technical team at Atrotech based in Tehran
