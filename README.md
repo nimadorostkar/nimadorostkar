@@ -10,7 +10,7 @@ I am enthusiastic in Computer Vision and currently working as a developer. I am 
 In my spare time you will probably find me in gym or with my friends.
 
 <br>
-
+*/
 <h3> Skills </h3>
 <p align="center">
   <img title="Django" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="50" height="50"/>
@@ -30,7 +30,7 @@ In my spare time you will probably find me in gym or with my friends.
   <img title="opencv" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"   width="50" height="50" />
   <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"   width="100" height="50" />
  </p>
-
+/*
 
 <h3> Communication </h3>
 
