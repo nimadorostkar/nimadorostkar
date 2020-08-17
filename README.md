@@ -2,7 +2,9 @@
 ### Hi everyone! 👋
 
 I’m Nima, and i'm part of the mechatronics technical team at Atrotech based in Tehran
+
 I am enthusiastic in Computer Vision and currently working as a developer. I am passionate about vision AI and data-driven technologies. Before joining Atrotech i was an full stack web developer as freelancer.
+
 In my spare time you will probably find me in gym or with my friends.
 
 <br>
