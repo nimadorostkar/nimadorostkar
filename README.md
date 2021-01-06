@@ -1,7 +1,7 @@
 
 ### Hi everyone! 👋
 
-I’m Nima, CTO of Atrotech (mechatronics technical team) based in Tehran
+I’m Nima, CTO of Atrotech (Mechatronic and electronic engineering technical Team) based in Tehran
 
 Django developer and enthusiastic in Computer Vision, Internet Of Things, vision AI and data-driven technologies.
 In my spare time you will probably find me in gym or with my friends.
