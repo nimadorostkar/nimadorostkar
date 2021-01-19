@@ -5,6 +5,7 @@ I’m Nima, CTO at Atrotech (Mechatronic and electronic engineering technical Te
 
 Django developer and enthusiastic in Computer Vision, Internet Of Things, vision AI and data-driven technologies.
 In my spare time you will probably find me in gym or with my friends.
+nimadorostkar.github.io
 
 <br>
 
