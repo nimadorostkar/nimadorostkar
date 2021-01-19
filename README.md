@@ -18,7 +18,7 @@ In my spare time you will probably find me in gym or with my friends.
      <a href="https://twitter.com/nimadrskr"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
      <a href="https://www.facebook.com/schmutz.schmutz.5"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
      <br>
-[nimadorostkar.github.io](https://nimadorostkar.github.io) 
+nimadorostkar.github.io 
 </p>
 
 
