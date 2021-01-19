@@ -1,5 +1,5 @@
 
-### Hi everyone! 👋
+### Hi everyone! 👋  [nimadorostkar.github.io](https://nimadorostkar.github.io) 
 
 I’m Nima, CTO at Atrotech (Mechatronic and electronic engineering technical Team) based in Tehran
 
@@ -17,8 +17,6 @@ In my spare time you will probably find me in gym or with my friends.
      <a href="https://www.instagram.com/nima.dorostkar"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
      <a href="https://twitter.com/nimadrskr"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
      <a href="https://www.facebook.com/schmutz.schmutz.5"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
-     <br>
-nimadorostkar.github.io 
 </p>
 
 
