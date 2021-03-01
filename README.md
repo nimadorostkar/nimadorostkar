@@ -20,7 +20,7 @@ In my spare time you will probably find me in gym or with my friends.
 </p>
 
 
-and you can check my [contributions skyline](https://skyline.github.com/nimadorostkar) 😉
+and you can check my [contributions skyline](https://skyline.github.com/nimadorostkar) or read more about [me](https://nimadorostkar.github.io) 😉
 
 
 
