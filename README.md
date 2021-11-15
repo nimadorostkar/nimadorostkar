@@ -19,8 +19,3 @@ In my spare time you will probably find me in gym or with my friends.
      <a href="https://www.facebook.com/schmutz.schmutz.5"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
 </p>
 
-
-and you can check my [contributions skyline](https://skyline.github.com/nimadorostkar) or read more about [me](https://nimadorostkar.github.io) 😉
-
-
-
