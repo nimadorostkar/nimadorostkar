@@ -1,9 +1,9 @@
 
 ### Hi everyone! 👋
 
-I’m Nima, Founder of Amlak.App and Co-Founder of Atrotech based in Tehran
+I’m Nima, BackEnd developer at DarineIT and Founder of Amlak.App based in Tehran
 
-Django developer and enthusiastic in Computer Vision, Internet Of Things, vision AI and data-driven technologies.
+Django developer and enthusiastic in Internet Of Things and data-driven technologies.
 In my spare time you will probably find me in gym or with my friends.
 <br>
 
