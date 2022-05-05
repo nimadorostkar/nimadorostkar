@@ -1,10 +1,7 @@
 
 ### Hi everyone! 👋
 
-I’m Nima, BackEnd developer at DarineIT and Founder of Amlak.App based in Tehran
-
-Django developer and enthusiastic in Internet Of Things and data-driven technologies.
-In my spare time you will probably find me in gym or with my friends.
+I’m Nima, Self-taught BackEnd developer with over 6+ years of experience in design, development, testing and project management. Active in entrepreneurship and startup development. Motivated to learn continuously and improve skills with high sense of responsibility. BackEnd Developer at miranco and FrodoTech
 <br>
 
 <h3> Communication </h3>
