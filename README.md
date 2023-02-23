@@ -1,7 +1,7 @@
 
 ### Hi everyone! 👋
 
-I’m Nima, Self-taught BackEnd developer with over 6+ years of experience in design, development, testing and project management. Active in entrepreneurship and startup development. Django BackEnd Developer at Miranco and FrodoTech.
+I’m Nima, Self-taught BackEnd developer with over 6 years of experience in design, development, testing and project management. Active in entrepreneurship and startup development. Motivate to continuously learn and improve skills with a high sense of responsibility.
 <br>
 
 <h3> Communication </h3>
