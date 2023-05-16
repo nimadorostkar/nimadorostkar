@@ -1,7 +1,7 @@
 
 ### Hi everyone! 👋
 
-I’m Nima, Self-taught BackEnd developer with over 6 years of experience in design, development, testing and project management. Active in entrepreneurship and startup development. Motivate to continuously learn and improve skills with a high sense of responsibility.
+Experienced Python backend developer with expertise in designing, developing and maintaining scalable web applications. Proficient in utilizing various Python frameworks and libraries to build robust APIs and integrating with databases. Strong problem-solving skills and ability to work collaboratively in a team environment.
 <br>
 
 <h3> Communication </h3>
